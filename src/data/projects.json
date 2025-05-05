@@ -9,7 +9,7 @@
   },
   {
     "title": "Scroll-Master",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project2.png",
     "description": "Scroll Master is a web project built using HTML, CSS, and JavaScript that enhances the scrolling experience with smooth and interactive effects.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://manikscrollmaster.netlify.app/",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Restaurant Website",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project3.png",
     "description": "I have created a restaurant website using MERN stack, incorporating features and responsive design for an enhanced user experience.",
     "skills": ["React", "Express", "Node","MongoDB"],
     "demo": "https://www.example.com",
