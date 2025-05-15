@@ -1,13 +1,13 @@
 [
   {
-    "title": "Blog Website",
-    "imageSrc": "projects/project.png",
-    "description": "A blog website is an online platform used to share valuable information and insights for both personal development and professional growth.",
-    "skills": ["React", "Express", "Node","MongoDB"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Manikkalotra/Mern-Stack"
+    "title": "Weather-App",
+    "imageSrc": "projects/project4.png",
+    "description": "Developed a dynamic Weather App that provides real-time weather updates using an responsive design.",
+    "skills": ["HTML", "CSS", "JavaScript","Vitejs","React.js"],
+    "demo": "https://wheather-app-puce.vercel.app/",
+    "source": "https://github.com/Manikkalotra/wheather-app"
   },
-  {
+   {
     "title": "Scroll-Master",
     "imageSrc": "projects/project2.png",
     "description": "Scroll Master is a web project built using HTML, CSS, and JavaScript that enhances the scrolling experience with smooth and interactive effects.",
@@ -15,6 +15,15 @@
     "demo": "https://manikscrollmaster.netlify.app/",
     "source": "https://github.com/Manikkalotra/front-end-scroll-master"
   },
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/project.png",
+    "description": "A blog website is an online platform used to share valuable information and insights for both personal development and professional growth.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Manikkalotra/Mern-Stack"
+  },
+ 
   {
     "title": "Restaurant Website",
     "imageSrc": "projects/project3.png",

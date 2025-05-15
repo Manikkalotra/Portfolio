@@ -24,6 +24,10 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "Vitejs",
+    "imageSrc": "skills/vitejs.png"
+  },
+  {
     "title": "JavaScript",
     "imageSrc": "skills/figma.png"
   }
